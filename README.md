@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roufaida 👩💻</h1>
+<h1 align="center">Hi 👋, I'm Roufaida Saadallah 👩💻</h1>
 <h3 align="center">A passionate systems engineering student</h3>
 
 - 🔭 I’m currently working on **Improving my skills**
@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact Coffee is always a good idea!
 <hr/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Roufida-saadallah29&label=Profile%20views&color=0e75b6&style=flat" alt="Roufida-saadallah29" /> </p>
 
 
 
@@ -26,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roufida-saadallah29&show_icons=true&locale=en" alt="Roufida-saadallah29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roufida-saadallah29&" alt="Roufida-saadallah29" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roufida-saadallah29&" alt="Roufida-saadallah29" /></p>
