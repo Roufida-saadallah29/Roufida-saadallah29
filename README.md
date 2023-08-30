@@ -11,10 +11,9 @@
 
 - ⚡ Fun fact Coffee is always a good idea!
 <hr/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=1b71h3l&label=Profile%20views&color=0e75b6&style=flat" alt="1b71h3l" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Roufida-saadallah29&label=Profile%20views&color=0e75b6&style=flat" alt="Roufida-saadallah29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Roufida-saadallah29" alt="Roufida-saadallah29" /></a> </p>
-<hr/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +22,8 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1b71h3l&show_icons=true&locale=en&layout=compact" alt="1b71h3l" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1b71h3l&show_icons=true&locale=en" alt="1b71h3l" /></p> -->
-<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roufida-saadallah29&show_icons=true&locale=en&layout=compact" alt="Roufida-saadallah29" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roufida-saadallah29&show_icons=true&locale=en" alt="Roufida-saadallah29" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roufida-saadallah29&" alt="Roufida-saadallah29" /></p>
