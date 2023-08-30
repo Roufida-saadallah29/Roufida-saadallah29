@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my skills**
 
-- 🌱 I’m currently learning ** Cyber security**
+- 🌱 I’m currently learning **Cyber security**
 
 - 💬 Ask me about **network security, and IoT**
 
