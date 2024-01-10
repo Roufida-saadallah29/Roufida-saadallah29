@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **jr_saadallah@esi.dz**
 
-- ⚡ Fun fact Coffee is always a good idea!
 <hr/>
 
 
